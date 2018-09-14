@@ -1,0 +1,14 @@
+{
+  "name": "pi-backend",
+  "version": "1.0.0",
+  "description": "Backend agent-like in raspberry pi to execute commands from firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaustav Majumder",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^6.0.0"
+  }
+}
